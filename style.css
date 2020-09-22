@@ -1,0 +1,18 @@
+#main{
+    text-align: center;
+}
+button{
+    margin-left: 20px;
+}
+.inp{
+    text-align: center;
+}
+#list{
+ display: inline;
+ text-decoration: none;
+ text-align: center;
+}
+.btn{
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
